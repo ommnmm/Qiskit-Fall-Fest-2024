@@ -1,8 +1,13 @@
 # Qiskit Fall Fest 2024
 
-The submission includes all three completed notebook files, and at least a submission to ibm quantum computers.
+The submission includes all three completed notebook files, and at least a submission to IBM Quantum computers.
 
-- **Submission to IBM Quantum Computer**:  
-  - Job ID: `cx1e889pjw300082vsbg` (pending due to traffic)  
+## Three Completed Notebook Files:
+- `Copy_of_QFF_Graded_Notebook_1.ipynb`
+- `QFF_Graded_Notebook_2.ipynb`
+- `QFF_Graded_Notebook_3.ipynb`
 
-There are also prior submissions to IBM Quantum computer outside of the IBM Qiskit Fest 24: `workloads.csv`.
+## Submission to IBM Quantum Computer:
+- **Job ID**: `cx1e889pjw300082vsbg`  
+  - Note: `Open_Notebook_A.ipynb` cannot be previewed, so `Open_Notebook_A.pdf` has been added for easier viewing.
+
