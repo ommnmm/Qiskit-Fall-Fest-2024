@@ -1,5 +1,8 @@
-# Qiskit-Fall-Fest-2024
-Qiskit Fall Fest 2024
+# Qiskit Fall Fest 2024
 
-submission to ibm quantum computer: job_id cx1b595rkac0008zxs60
-full history of submission to ibm quantum computer: workloads.csv
+The submission includes all three completed notebook files, and at least a submission to ibm quantum computers.
+
+- **Submission to IBM Quantum Computer**:  
+  - Job ID: `cx1e889pjw300082vsbg` (pending due to traffic)  
+
+There are also prior submissions to IBM Quantum computer outside of the IBM Qiskit Fest 24: `workloads.csv`.
